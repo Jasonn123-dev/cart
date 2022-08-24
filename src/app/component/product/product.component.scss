@@ -1,0 +1,39 @@
+h4, p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100ch;
+    text-align: center;
+   
+}
+
+.img {
+    display: flex;
+    text-align-last: center;
+}
+
+img:hover {
+    transition: 0.3s ease-in-out;
+    transform: scale(1.1);
+    cursor: pointer;
+    
+}
+.container{
+    
+    display: inline-flex;
+    background-color: aliceblue;
+   text-align: center;
+
+}
+.card-text{
+    font-size: 15px;
+}
+button{
+    
+    display: inline-flex;
+    text-align:center ;
+    width: 150px;
+    padding-left: 40px;
+    background-color: green;
+}
+

@@ -1,0 +1,77 @@
+{
+  "products": [
+      {
+          "id": 1,
+          "title": "The Jerk Manager",
+          "price": 988.00,
+          "description": "The side is on the your way up",
+          "category": "books",
+          "image": "assets/images/products/mobiles/book1.jpg"
+      },
+      {
+          "id": 2,
+          "title": "Nego like a CEO",
+          "price": 755.00,
+          "description": "The book describes best practices",
+          "category": "books",
+          "image": "assets/images/products/mobiles/book2.jpg"
+      },
+      {
+          "id": 3,
+          "title": "Dark Psychology",
+          "price": 899.00,
+          "description": "Your days of being negatively influenced is over",
+          "category": "mobiles",
+          "image": "assets/images/products/mobiles/book3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Art of Invisibility",
+        "price": 500.00,
+        "description": "Be online without leaving a trace",
+        "category": "books",
+        "image": "assets/images/products/mobiles/book4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Dead Cow",
+        "price": 379.00,
+        "description": "Be a hero for today",
+        "category": "books",
+        "image": "assets/images/products/mobiles/book5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Zero Day",
+        "price": 999.00,
+        "description": "The virus now known as Stuxnet",
+        "category": "books",
+        "image": "assets/images/products/mobiles/book6.jpg"
+    },
+    {
+        "id": 7,
+        "title": "The End of The World",
+        "price": 1000.00,
+        "description": "Zero day: a software bug that allows a hacker to break into your devices and move around undetected",
+        "category": "books",
+        "image": "assets/images/products/mobiles/book7.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Blood Thunder",
+        "price": 490.00,
+        "description": "Fueled by the new ideology of “Manifest Destiny”",
+        "category": "books",
+        "image": "assets/images/products/mobiles/book8.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Empire Summer Moon",
+        "price": 179.00,
+        "description": "a stunningly vivid historical account of the forty-year battle between Comanche Indians and white settlers",
+        "category": "books",
+        "image": "assets/images/products/mobiles/book9.jpg"
+    }
+    
+  ]
+}

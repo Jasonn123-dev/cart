@@ -1,0 +1,25 @@
+.card-top {
+    
+    display: flex;
+}
+
+
+.category img{
+    width: 100px;
+   display: contents;
+   
+
+
+}
+
+.category {
+    margin: 0px 15px;
+    text-align: center;
+    flex-direction: row;
+    cursor: pointer;
+}
+
+.category a:hover{
+    color: blue;
+}
+
